@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there, I'm Tobi 👋 (aka dev-2b)
 
-<!--
-**dev-2b/dev-2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2b || ! 2b — That is the code.
 
-Here are some ideas to get you started:
+> "First, solve the problem. Then, write the code." – John Johnson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am an **aspiring developer** and **career changer**, currently transitioning into the tech world. 
+My journey is all about logic, learning, and building things from scratch. 
+The name **dev-2b** stands for my path: *Tobi to be a developer.*
+
+---
+
+## 🛠 Currently Learning & Building
+* 📚 **Focus:** Diving deep into Python and Rust
+* 🎯 **Goal:** Building a career in software development.
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-2b&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-2b&layout=compact&theme=tokyonight)
+
+---
+**Fun Fact:** My username is 1 byte short of being a triple-byte. 😉
