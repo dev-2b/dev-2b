@@ -15,12 +15,6 @@ The name **dev-2b** stands for my path: *Tobi to be a developer.*
 * 📚 **Focus:** Diving deep into Python and Rust
 * 🎯 **Goal:** Building a career in software development.
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-2b&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-t2&layout=compact&theme=tokyonight" alt="Langs" />
-</p>
 
 ---
 **Fun Fact:** My username is 1 byte short of being a triple-byte. 😉
