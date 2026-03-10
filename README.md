@@ -17,8 +17,10 @@ The name **dev-2b** stands for my path: *Tobi to be a developer.*
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-2b&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-2b&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-2b&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-t2&layout=compact&theme=tokyonight" alt="Langs" />
+</p>
 
 ---
 **Fun Fact:** My username is 1 byte short of being a triple-byte. 😉
