@@ -4,7 +4,7 @@ Hi there, I'm Tobi 👋 (aka dev-2b)
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
-### 🚀 About Me
+### About Me
 I am an **aspiring developer** and **career changer**, currently transitioning into the tech world. 
 My journey is all about logic, learning, and building things from scratch. 
 The name **dev-2b** stands for my path: *Tobi to be a developer.*
